@@ -33,20 +33,21 @@ This is a simple web application built using JavaScript and Express.js. The appl
    ```bash
    git clone https://github.com/malymalcev/Test-Expressjs.git
    cd Test-Expressjs
+   ```
    
 2. Install dependencies:
 
    ```bash
    npm install
-   
+   ```
 
 ### Running the Application
 
 Start the application using the following command:
 
-
+```bash
 npm start
-
+```
 
 The application will be running on http://localhost:3000.
 
