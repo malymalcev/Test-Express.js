@@ -34,10 +34,9 @@ This is a simple web application built using JavaScript and Express.js. The appl
    git clone https://github.com/malymalcev/Test-Expressjs.git
    cd Test-Expressjs
    
-
 2. Install dependencies:
 
-   
+   ```bash
    npm install
    
 
@@ -53,10 +52,11 @@ The application will be running on http://localhost:3000.
 
 ### Directory Structure
 
-
+```
 ├── public
 │   └── index.html
 ├── app.js
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
