@@ -1,6 +1,8 @@
 const express = require('express')
 const path = require('path')
+
 const app = express();
+
 const PORT = 3000
 
 
@@ -10,11 +12,11 @@ app.get("/", function (request, response) {
     response.send("Hello, World!")
 })
 
-app.get("/about", function(request ,response){
+app.get("/about", function (request, response){
     response.send("Это простое приложение на Express.js")
 })
 
-app.get("*", function(request ,response){
+app.get("*", function (request, response){
     response.send("Страница не найдена")
 })
 
