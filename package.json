@@ -1,0 +1,19 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malymalcev/Test-Express.js.git"
+  },
+  "author": "Maksim Maltsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malymalcev/Test-Express.js/issues"
+  },
+  "homepage": "https://github.com/malymalcev/Test-Express.js#readme",
+  "description": ""
+}
