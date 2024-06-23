@@ -1,0 +1,22 @@
+{
+  "name": "test-expressjs",
+  "version": "1.0.0",
+  "description": "Test task for VVDEV, made with Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malymalcev/Test-Expressjs.git"
+  },
+  "author": "Maksim Maltsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malymalcev/Test-Expressjs/issues"
+  },
+  "homepage": "https://github.com/malymalcev/Test-Expressjs#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
